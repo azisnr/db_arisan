@@ -1,0 +1,68 @@
+{
+  "Kategori" : {
+    "01" : {
+      "Gambar" : "https://i.ibb.co/30RGdMc/alam.png",
+      "KategoriID" : "01",
+      "Nama" : "Indonesia"
+    },
+    "02" : {
+      "Gambar" : "https://i.ibb.co/935wDXy/edukasi.png",
+      "KategoriID" : "02",
+      "Nama" : "Kedokteran"
+    },
+    "03" : {
+      "Gambar" : "https://i.ibb.co/xgXgkPB/kuliner.png",
+      "KategoriID" : "03",
+      "Nama" : "Budaya"
+    },
+    "04" : {
+      "Gambar" : "https://i.ibb.co/ZGqcpfv/seni.png",
+      "KategoriID" : "04",
+      "Nama" : "Seni"
+    },
+    "05" : {
+      "Gambar" : "https://i.ibb.co/1zxY4JH/religi.png",
+      "KategoriID" : "05",
+      "Nama" : "Religi"
+    },
+    "06" : {
+      "Gambar" : "https://i.ibb.co/5jq0tBJ/rekreasi.png",
+      "KategoriID" : "06",
+      "Nama" : "Pendidikan"
+    }
+  },
+  "List" : {
+    "01" : {
+      "namaNarator" : "Ngatidjan Dwijowarsito",
+      "judulSejarah" : "Toponimi Kampung Pesindenan",
+      "foto" : "https://explorewisata.com/wp-content/uploads/2017/11/taman-sari-yogyakarta.jpg",
+      "id" : "01",
+      "IdAudio" : "01",
+      "KategoriID" : "01"
+    },
+    "02" : {
+      "NamaNarator" : "Ngatidjan Dwijowarsito",
+      "JudulSejarah" : "Toponimi Kampung Pesindenan",
+      "Gambar" : "https://explorewisata.com/wp-content/uploads/2017/11/taman-sari-yogyakarta.jpg",
+      "Id" : "02",
+      "IdAudio" : "02",
+      "KategoriID" : "02"
+    }
+  },
+  "Audio" : {
+    "01" : {
+      "namaAudio" : "Perkenalan",
+      "durasi" : "00.00 - 00.09",
+      "rekaman" : "https://vocaroo.com/i/s0C7TAySlKsX",
+      "IdAudio" : "01",
+      "id"  : "01"
+    },
+    "02" : {
+      "namaAudio" : "Perkenalan",
+      "durasi" : "00.00 - 00.09",
+      "rekaman" : "https://vocaroo.com/i/s0C7TAySlKsX",
+      "IdAudio" : "01",
+      "id"  : "02"
+    }
+  }
+}
