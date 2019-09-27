@@ -1,5 +1,5 @@
 {
-  "Kategori" : {
+  "Kategori" : [{
     "01" : {
       "Gambar" : "https://i.ibb.co/30RGdMc/alam.png",
       "KategoriID" : "01",
@@ -30,8 +30,8 @@
       "KategoriID" : "06",
       "Nama" : "Pendidikan"
     }
-  },
-  "List" : {
+  }],
+  "List" : [{
     "01" : {
       "namaNarator" : "Ngatidjan Dwijowarsito",
       "judulSejarah" : "Toponimi Kampung Pesindenan",
@@ -48,8 +48,8 @@
       "IdAudio" : "02",
       "KategoriID" : "02"
     }
-  },
-  "Audio" : {
+  }],
+  "Audio" : [{
     "01" : {
       "namaAudio" : "Perkenalan",
       "durasi" : "00.00 - 00.09",
@@ -64,5 +64,5 @@
       "IdAudio" : "01",
       "id"  : "02"
     }
-  }
+  }]
 }
